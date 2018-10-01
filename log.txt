@@ -1,0 +1,8 @@
+07:00:44 Mon Oct  1, 2018 - Logger initialized.
+07:00:44 Mon Oct  1, 2018 - Program Started.
+07:00:44 Mon Oct  1, 2018 - SDL initialization was successful.
+07:00:44 Mon Oct  1, 2018 - SDL window was created.
+07:00:44 Mon Oct  1, 2018 - Entering main loop.
+07:01:02 Mon Oct  1, 2018 - Exited main loop.
+07:01:02 Mon Oct  1, 2018 - Program Ended.
+07:01:02 Mon Oct  1, 2018 - Logger destroyed.
